@@ -1,3 +1,7 @@
 # terraform
 
-By using Terraform we are creating an EC2 Insatnce in AWS environment.
+By using Terraform we are creating an EC2 Instance in an AWS environment.
+
+## Terraform production issue guide
+
+See [Terraform 100 Production Issues with STAR Method and Solutions](./terraform-100-issues-star-solutions.md) for 100 production Terraform issues, STAR-method explanations, solutions, and use cases.
